@@ -1,6 +1,6 @@
-# Point Matching White Balancing Tool
+# Point Matching Color Transform Tool
 
-This tool provides a GUI-based solution for color mapping and white balancing between two images using point matching and polynomial regression.
+This tool provides a GUI-based solution for color mapping and color transformation between two images using point matching and polynomial regression.
 
 ## Features
 
@@ -88,4 +88,4 @@ python transform_images.py input_directory output_directory -p 4
 
 - The tool uses polynomial regression (degree 2) for color mapping
 - For best results, select points that represent a good range of colors in both images
-- The transformation coefficients can be reused for batch processing multiple images 
+- The transformation coefficients can be reused for batch processing multiple images
