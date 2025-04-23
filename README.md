@@ -81,6 +81,7 @@ python transform_images.py input_directory output_directory -p 4
    ![Preview](preview.png)
 
 2. After processing, the transformed image will be saved as `transformed_A.png`
+   ![Transformed Image](transformed_A.png)
 
 3. The color mapping coefficients will be saved in `mapping_coefficients.json`
 
